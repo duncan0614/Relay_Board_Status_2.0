@@ -1,0 +1,75 @@
+;Arduino_MEGA_on; [
+  {
+    "No.": "1",
+    "Relay": "D2",
+    "Status": "ON",
+    "Delay Time (s)": "1"
+  },
+  {
+    "No.": "2",
+    "Relay": "D3",
+    "Status": "ON",
+    "Delay Time (s)": "1"
+  },
+  {
+    "No.": "3",
+    "Relay": "D4",
+    "Status": "ON",
+    "Delay Time (s)": "1"
+  },
+  {
+    "No.": "4",
+    "Relay": "D5",
+    "Status": "ON",
+    "Delay Time (s)": "1"
+  },
+  {
+    "No.": "5",
+    "Relay": "D6",
+    "Status": "ON",
+    "Delay Time (s)": "1"
+  },
+  {
+    "No.": "6",
+    "Relay": "D7",
+    "Status": "ON",
+    "Delay Time (s)": "1"
+  }
+];Arduino_MEGA_off; [
+  {
+    "No.": "1",
+    "Relay": "D2",
+    "Status": "OFF",
+    "Delay Time (s)": "1"
+  },
+  {
+    "No.": "2",
+    "Relay": "D3",
+    "Status": "OFF",
+    "Delay Time (s)": "1"
+  },
+  {
+    "No.": "3",
+    "Relay": "D4",
+    "Status": "OFF",
+    "Delay Time (s)": "1"
+  },
+  {
+    "No.": "4",
+    "Relay": "D5",
+    "Status": "OFF",
+    "Delay Time (s)": "1"
+  },
+  {
+    "No.": "5",
+    "Relay": "D6",
+    "Status": "OFF",
+    "Delay Time (s)": "1"
+  },
+  {
+    "No.": "6",
+    "Relay": "D7",
+    "Status": "OFF",
+    "Delay Time (s)": "1"
+  }
+]
